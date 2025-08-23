@@ -11,3 +11,6 @@ ENV/
 .ipynb_checkpoints/
 
 .env
+
+.DS_Store
+Thumbs.db
